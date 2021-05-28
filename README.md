@@ -4,7 +4,7 @@
 ## :notes: GitHub Stats And Top Languages
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=remidosol&show_icons=true&count_private=true&layout=compact&theme=dark)](#)
-[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=remidosol)](#)
+[![Stats](http://github-readme-streak-stats.herokuapp.com?user=remidosol&theme=highcontrast&fire=CA0000)](#)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=remidosol&layout=compact&langs_count=8&theme=dark)](#)
 
