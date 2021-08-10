@@ -8,7 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=remidosol&layout=compact&langs_count=8&theme=dark)](#)
 
-## :microphone: How to Reach Me
+## :microphone: Review Me
 
 
 [![Linkedin Badge](https://img.shields.io/badge/ServeriGaram-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/server-i-garam/)
@@ -17,6 +17,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/serverigaram-follow%20on%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ServeriGaram)
 [![YouTube Badge](https://img.shields.io/badge/serverigaram-subscribe%20on%20youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ServeriGaram)
+
+[![HackerRank Badge](https://img.shields.io/badge/remidosol-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/remidosol)
 
 ## :musical_keyboard: Skills
 
