@@ -1,5 +1,7 @@
 ### Hi there !
 
+![Metrics](https://metrics.lecoq.io/remidosol?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&discussions=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FIstanbul)
+
 
 ## :notes: GitHub Stats And Top Languages
 
