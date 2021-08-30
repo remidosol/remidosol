@@ -37,6 +37,6 @@
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://s9.gifyu.com/images/code.gif" width="500" height="320" />
 
 <p> :e-mail: Mail: serverigaram@gmail.com
