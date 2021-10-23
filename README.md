@@ -6,12 +6,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/ServeriGaram-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/server-i-garam/)
-[![Twitter Badge](https://img.shields.io/badge/ServeriGaram-follow%20on%20twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ServeriGaram)
-
-
-[![Instagram Badge](https://img.shields.io/badge/serverigaram-follow%20on%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ServeriGaram)
 [![YouTube Badge](https://img.shields.io/badge/serverigaram-subscribe%20on%20youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ServeriGaram)
-
 [![HackerRank Badge](https://img.shields.io/badge/remidosol-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/remidosol)
 
 ## :musical_keyboard: Skills
