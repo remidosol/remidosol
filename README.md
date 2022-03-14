@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Next.js, GraphQL and AWS Techs** *(Also React)*
+- 🌱 I’m currently learning **Next.js, GraphQL and AWS Techs(AWS Amplify, AWS Lambda, AWS Cloudfront etc.)** *(Also React)*
 
 <!-- 📝 I regularly write articles on [https://remidosol.com](https://remidosol.com) -->
 
