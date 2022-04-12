@@ -3,12 +3,12 @@
 
 <!-- <img  src="https://komarev.com/ghpvc/?username=remidosol&label=Profile%20views&color=0e75b6&style=for-the-badge"  alt="remidosol" /> -->
 
-<h3 align="center">I'm a Biomedical Engineer which is generally works on the area of software developing and interested in Web/Mobile Development, Embedded Systems, lo-MT(or loT) and Cyber Security.
+<h3 align="center">I'm a Biomedical Engineer which is works on software development that includes Full-Stack Web/Mobile Development. Besides of that, I enjoy to deal with Embedded Systems, IoT and Cyber Security.
 </h3>
 <br>
 
 
-- 🌱 I’m currently learning **Next.js, GraphQL and AWS Techs(AWS Amplify, AWS Lambda, AWS Cloudfront etc.)** *(Also React)*
+- 🌱 I’m currently learning **Next.js, StoryBook, GraphQL and AWS Techs(AWS Amplify, AWS Lambda, AWS Cloudfront etc.)** *(Also React)*
 
 <!-- 📝 I regularly write articles on [https://remidosol.com](https://remidosol.com) -->
 
