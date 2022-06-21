@@ -3,7 +3,7 @@
 
 <!-- <img  src="https://komarev.com/ghpvc/?username=remidosol&label=Profile%20views&color=0e75b6&style=for-the-badge"  alt="remidosol" /> -->
 
-<h3 align="center">I'm a Biomedical Engineer and Software Developer which works on Full-Stack Web and Mobile Development. Besides of that, I enjoy to deal with Embedded Systems, IoT and Cyber Security.
+<h3 align="center">I'm a Biomedical Engineer and Software Developer which works on Full-Stack Web and Mobile Development. Besides of that, I enjoy to deal with Embedded Systems, IoT-IoMT, Blockchain, Web 3.0, Cloud Computing and Cyber Security.
 </h3>
 <br>
 
