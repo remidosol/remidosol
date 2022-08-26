@@ -32,7 +32,7 @@
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](#)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](#)
-[![AdonisJS](https://img.shields.io/badge/adonisjs-5A45FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAB/klEQVRIia3WzW9MYRQG8N+MmbYJ4qsrK2FCJBZ2ogtM4iPxsbWyFf+ATSPtxt8giLUt0gqJ+lghsbNCsRCixJQhKtGiFu975c47986UepKTmfee5zznvF/n3opuDOAQ9mEbtmAYK7A2ctr4iRZe4hnu4RbmCzRBDeOYxeI/2izGolYH6ri+DOHUJtMk40sI+oYHeBj/9+OfycQHlrAsV4R9yDCMa31iWnFlHOtDfBKLSDEYfb1ij1TRLAjO46zik/E9+nqhSe/NfZNNM2J9tAz1yCmLn6ii0aOCc1jIjU/hZG68EDllaMD7kuxz2JBU+7pgVuvwtUTjLXwpcZ5PqjmR8x1PfBdKNNrZNFPHL2xPRB7l/PcT31ahdaQ682UJbiQCewo4uxLOzbIERUt0IAm+WsC5nHAOFnDa8C55+BSVXOBm/CipbmOOV4mxec5MNcuSw1R0ZtiN0xjBpmgjGI2/GRZxO9H6VMMLoe9nWJWQ0qWAV0LTS7E6GT+vYjp5uFfoM3+LIeEwdCSAo7rX96LuBjeEHdHSAgZxqUDncCUKzejsMVn2O0Lb3Sk0rpXRN4e7eCy07v26W05L7hCMFWRfro3ms9WE19z/Ep8QPhI6UBNec61lCH+Ilf8Rz1+oDHXhVjaFHtMQ9mcAayLns3DRPgp7NS18tkzpbO9+A5IkOL1+VxMPAAAAAElFTkSuQmCC)](#)
+[![AdonisJS](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#)
 
