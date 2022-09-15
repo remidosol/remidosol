@@ -14,6 +14,11 @@
 
 ## :musical_keyboard: Knowledge
 
+**To access my tech stack updated frequently on Stackshare:** [<img src="https://i.ibb.co/d6wXt6P/stackshare-seeklogo-com.png" width="35px" height="35px" />](https://stackshare.io/remidosol/my-adventure)
+
+
+<!--  width="35px" height="35px" -->
+
 ### Programming/Markup Languages
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
