@@ -14,7 +14,7 @@
 
 ## :musical_keyboard: Knowledge
 
-**To access my tech stack updated frequently on Stackshare:** <a href="https://stackshare.io/remidosol/my-adventure" target="_blank"><img src="https://i.ibb.co/d6wXt6P/stackshare-seeklogo-com.png" width="35px" height="35px" /></a>
+**To access my tech stack updated frequently on Stackshare:** <a target="_blank" href="https://stackshare.io/remidosol/my-adventure" rel="noopener noreferrer"><img src="https://i.ibb.co/d6wXt6P/stackshare-seeklogo-com.png" width="35px" height="35px" /></a>
 
 
 <!--  width="35px" height="35px" -->
