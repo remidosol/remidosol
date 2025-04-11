@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm İbrahim AKSÜT</h1>
 
 <!-- <img  src="https://komarev.com/ghpvc/?username=remidosol&label=Profile%20views&color=0e75b6&style=for-the-badge"  alt="remidosol" /> -->
@@ -8,6 +7,29 @@
 <br>
 
 <!-- 📝 I regularly write articles on [https://remidosol.com](https://remidosol.com) -->
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remidosol&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+## 🔭 Currently Working On
+- Improving full-stack web applications with NestJS and React/Next.js
+- Exploring blockchain technologies and Web 3.0
+- IoT projects
+
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/remidosol/express-ts-clean-movie-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=express-ts-clean-movie-api&theme=radical" />
+  </a>
+  <a href="https://github.com/remidosol/real-time-trade-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=real-time-trade-api&theme=radical" />
+  </a>
+  <a href="https://github.com/remidosol/tmdb-nestjs-microservices">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=tmdb-nestjs-microservices&theme=radical" />
+  </a>
+</div>
 
 ## :musical_keyboard: Knowledge
 
@@ -166,12 +188,10 @@
     <a href="https://www.buymeacoffee.com/remidosol">  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=remidosol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="remidosol"/>
     </a>
   </p>
-
-[More Metrics](https://metrics.lecoq.io/remidosol?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&discussions=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FIstanbul)
 </div>
 
 <div>
-<p><img alt="GIF"  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%"  height="75%" /></p>
+<p>
+<img src="https://raw.githubusercontent.com/remidosol/remidosol/output/snake.svg" alt="Snake animation" /></p>
 </div>
 </div>
-
