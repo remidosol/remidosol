@@ -1,35 +1,26 @@
 <h1 align="center">Hi 👋, I'm İbrahim AKSÜT</h1>
 
-<!-- <img  src="https://komarev.com/ghpvc/?username=remidosol&label=Profile%20views&color=0e75b6&style=for-the-badge"  alt="remidosol" /> -->
-
 <h3 align="center">I'm a Software Developer who works on Full-Stack Web and Mobile Development. Besides that, I enjoy dealing with Embedded Systems, IoT-IoMT, Blockchain, Web 3.0, Cloud Computing and Cyber Security.
 </h3>
 <br>
 
 <!-- 📝 I regularly write articles on [https://remidosol.com](https://remidosol.com) -->
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remidosol&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 ## 🔭 Currently Working On
+
 - Improving full-stack web applications with NestJS and React/Next.js
 - Exploring blockchain technologies and Web 3.0
 - IoT projects
 
-## 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/remidosol/express-ts-clean-movie-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=express-ts-clean-movie-api&theme=radical" />
-  </a>
-  <a href="https://github.com/remidosol/real-time-trade-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=real-time-trade-api&theme=radical" />
-  </a>
-  <a href="https://github.com/remidosol/tmdb-nestjs-microservices">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=tmdb-nestjs-microservices&theme=radical" />
-  </a>
-</div>
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## :musical_keyboard: Knowledge
 
@@ -78,7 +69,6 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](#)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](#)
 
-
 ### IDEs/Editors
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
@@ -99,7 +89,6 @@
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](#)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
-
 
 ### Cloud/SaaS/PaaS/IaaS/Hosting
 
@@ -126,7 +115,6 @@
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#)
 [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
 
-
 ### Testing
 
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](#)
@@ -136,14 +124,13 @@
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![Japa](https://img.shields.io/badge/Japa-E85A6B?style=for-the-badge&logo=japa&logoColor=white)](#)
 
-
 ### CI/CD & Office
+
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](#)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](#)
-
 
 ### Others
 
@@ -156,6 +143,7 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 
 ### 🎶 Sound
+
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/server-i-garam)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11158891894)
 
@@ -167,6 +155,33 @@
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/remidosol)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@remidosol8)
 
+## 🌟 Featured Projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/remidosol/express-ts-clean-movie-api" style="flex: 0 1 45%; margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=express-ts-clean-movie-api&theme=dark&description_lines_count=5" />
+  </a>
+  <a href="https://github.com/remidosol/real-time-trade-api" style="flex: 0 1 45%; margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=real-time-trade-api&theme=dark&description_lines_count=5" />
+  </a>
+  <a href="https://github.com/remidosol/tmdb-nestjs-microservices" style="flex: 0 1 45%; margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=tmdb-nestjs-microservices&theme=dark&description_lines_count=5" />
+  </a>
+  <a href="https://github.com/remidosol/next-ecommerce-landing-page" style="flex: 0 1 45%; margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=remidosol&repo=next-ecommerce-landing-page&theme=dark&description_lines_count=5" />
+  </a>
+</div>
+
+## Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/remidosol?tab=repositories" style="flex: 0 1 45%; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=remidosol&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/remidosol?tab=repositories" style="flex: 0 1 45%; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remidosol&layout=compact&langs_count=7&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!--
 
@@ -178,9 +193,8 @@
 
 --->
 
-  
-
 ## Support
+
 <br>
 <div>
   <div align="center">
