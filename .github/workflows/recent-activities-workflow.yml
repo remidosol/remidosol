@@ -1,4 +1,4 @@
-name: Update README
+name: Recent activities workflow
 on:
   schedule:
     - cron: "* */18 * * *" # Runs every 18 hours
