@@ -24,6 +24,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is this thing called Node.js?](https://medium.com/@remidosol8/what-is-this-thing-called-node-js-73b1a8f91926?source=rss-ddedfd1fa7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :musical_keyboard: Knowledge
