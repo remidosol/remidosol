@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İbrahim AKSÜT</h1>
+<h1 align="center">Hi 👋, I'm İbrahim</h1>
 
 <h3 align="center">I'm a Software Developer who works on Full-Stack Web and Mobile Development. Besides that, I enjoy dealing with Embedded Systems, IoT-IoMT, Blockchain, Web 3.0, Cloud Computing and Cyber Security.
 </h3>
