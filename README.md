@@ -15,10 +15,10 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/remidosol/parasut-nest/pull/6) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-2. 💪 Opened PR [#6](https://github.com/remidosol/parasut-nest/pull/6) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-3. 🎉 Merged PR [#5](https://github.com/remidosol/parasut-nest/pull/5) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-4. 💪 Opened PR [#5](https://github.com/remidosol/parasut-nest/pull/5) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+1. 🎉 Merged PR [#7](https://github.com/remidosol/parasut-nest/pull/7) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+2. 💪 Opened PR [#7](https://github.com/remidosol/parasut-nest/pull/7) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+3. 🎉 Merged PR [#6](https://github.com/remidosol/parasut-nest/pull/6) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+4. 💪 Opened PR [#6](https://github.com/remidosol/parasut-nest/pull/6) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
