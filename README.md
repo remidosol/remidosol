@@ -15,10 +15,10 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/remidosol/parasut-nest/pull/16) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-2. 💪 Opened PR [#16](https://github.com/remidosol/parasut-nest/pull/16) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-3. 🎉 Merged PR [#15](https://github.com/remidosol/parasut-nest/pull/15) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
-4. 💪 Opened PR [#15](https://github.com/remidosol/parasut-nest/pull/15) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+1. 💪 Opened PR [#16](undefined) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+2. 💪 Opened PR [#15](undefined) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+3. 💪 Opened PR [#14](undefined) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
+4. 💪 Opened PR [#13](undefined) in [remidosol/parasut-nest](https://github.com/remidosol/parasut-nest)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
