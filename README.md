@@ -6,12 +6,6 @@
 
 <!-- 📝 I regularly write articles on [https://remidosol.com](https://remidosol.com) -->
 
-## 🔭 Currently Working On
-
-- Improving full-stack web applications with NestJS and React/Next.js
-- Exploring blockchain technologies and Web 3.0
-- IoT projects
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
