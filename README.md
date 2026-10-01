@@ -18,7 +18,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is this thing called Node.js?](https://medium.com/@remidosol8/what-is-this-thing-called-node-js-73b1a8f91926?source=rss-ddedfd1fa7e------2)
+- [What is this thing called a saga? #7: Cloud, CI/CD, and one very long trace](https://medium.com/@remidosol8/what-is-this-thing-called-a-saga-7-cloud-ci-cd-and-one-very-long-trace-83d99353424a?source=rss-ddedfd1fa7e------2)
+- [What is this thing called a saga? #6: Kubernetes on my laptop](https://medium.com/@remidosol8/what-is-this-thing-called-a-saga-6-kubernetes-on-my-laptop-b3dc8f9fe2d3?source=rss-ddedfd1fa7e------2)
+- [What is this thing called a saga? #5: An MCP server, a circuit breaker, and an API key](https://medium.com/@remidosol8/what-is-this-thing-called-a-saga-5-an-mcp-server-a-circuit-breaker-and-an-api-key-ea2d0b09060a?source=rss-ddedfd1fa7e------2)
+- [What is this thing called a saga? #2: Kafka fundamentals, and a bug I wrote on purpose](https://medium.com/@remidosol8/what-is-this-thing-called-a-saga-2-kafka-fundamentals-and-a-bug-i-wrote-on-purpose-a34dcd79d658?source=rss-ddedfd1fa7e------2)
+- [What is this thing called a saga? #4: The saga, and why choreography](https://medium.com/@remidosol8/what-is-this-thing-called-a-saga-4-the-saga-and-why-choreography-1900a1bb192d?source=rss-ddedfd1fa7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :musical_keyboard: Knowledge
